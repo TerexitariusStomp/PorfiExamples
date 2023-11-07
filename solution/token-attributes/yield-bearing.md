@@ -6,4 +6,4 @@ Trading fees are earned based on the tokens in our Balancer Pool. As of 6/19/23 
 
 ## Tokens in Pool
 
-Powerledger, Energy Web, Ethix are all tokens that generate yield when staked. However, for our Balancer Pool we need to ensure that the tokens deposited are always accessible by the people who deposited them. In a future development we will create tokens that will benefit from the staking systems of these platforms and likely switch these tokens with the non yield bearing ones in our pool.&#x20;
+Various tokens (such as Powerledger, Energy Web, Ethix) generate yield when staked. However, for our Balancer Pool we need to ensure that the tokens deposited are always accessible by the people who deposited them. In a future development we will create tokens that will benefit from the staking systems of these platforms and likely switch these tokens with the non yield bearing ones in our pool.&#x20;
