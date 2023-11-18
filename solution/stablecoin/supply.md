@@ -1,0 +1,7 @@
+# Supply
+
+Azos stable asset supply scales linearly with volatility and liquidity. Anytime the market price is above target; the supply grows. Anytime the market price is below target; the supply shrinks. Each time this cycle occurs; the supply grows by a certain percentage of the total value exchanged. This means any significant variation of the stable asset’s market price will increase supply over time.
+
+The Azos module will constantly increase the debt and supply of protocol stable assets. It does this by stabilizing the market price against the redemption price. Anytime there’s bi-directional price volatility of the stable asset; the supply will grow. Whenever the Azos stable asset market price pushes above redemption price; the module can flash mint supply and equilibrate the market and redemption price by selling on the open market. At the end of all Azos module transactions, we check the state of the system and module. This check is made against the 7 system module rules: and as long as the rules are abided; the transaction is allowed.
+
+We can model module generated supply growth as: ● The size of the module generated supply at time t as S(t) ● The volatility of the system as V(t) ● The liquidity of the system as L(t) ● The constant of proportionality between the increase in size and volatility ᶐ ● The constant of proportionality between the increase in size and liquidity 𝝱 The growth of supply as a continuous differential function of volatility and liquidity: dS(t)/dt = ᶐV(t)S(t) + 𝝱L(t)S(t)

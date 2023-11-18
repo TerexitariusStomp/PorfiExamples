@@ -1,0 +1,3 @@
+# Reflexer GEB
+
+The Gödel, Escher, Bach (GEB) reflex index was born. Reflexer Finance was built on the MCD framework. It minimized governance, eschewed any real world asset collateral and introduced an autonomous redemption rate controller. The autonomous rate controller is an amazing breakthrough technology. Fixed-pegs are brittle. Reflexer is more like a ball player’s baseball glove; gracefully anticipating, cushioning and making the catch. 3 Reflexer had identified that Maker could fall prey to a cost-of-coercion attack; where a participant could accumulate governance power and subvert the protocol to their own benefit. Their “governance ice age” mechanism was deployed to prevent this from happening.

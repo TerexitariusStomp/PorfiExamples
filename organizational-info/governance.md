@@ -4,6 +4,10 @@ Governance Rights
 
 The organization will run in a centralized governance fashion, gradually decentralizing over time. Initially, the core team will be responsible for majority of governance and operational decisions.&#x20;
 
+Long Tail Emissions
+
+Azos will distribute protocol ownership to a large number of participants over a long period of time. These long-tail emissions will ensure yield-aggregation strategies continue to outperform our competitors for years.
+
 Voting Rights to DAO Members
 
 Our MVP token will give holders the ability to vote on certain decisions. These decisions include what tokens are held as part of the Balancer pool and the percent of the Balancer pool that these tokens consist of. In order to add new tokens for consideration, a forum post needs to be made. This forum post will list details of the token and give our community the opportunity to discuss the pros and cons of adding this token to the Balancer pool.  &#x20;

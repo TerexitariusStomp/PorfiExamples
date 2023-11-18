@@ -1,0 +1,3 @@
+# Voting Escrow and Fee Subsidies
+
+Azos will also adopt the long tail emission voting escrow token mechanics of Curve. The current state of leveraged yield aggregation has been upended by staking withdrawals and liquid staking derivatives. Azos will seek to maintain an equilibrium between token emissions and protocol fees. This enables much more powerful leveraged strategies and helps to decentralize protocol ownership. It will also make the relationship between token emissions and protocol fees clear to users. This provides a clear pathway for composable applications which supplement the governance process or create advanced strategies using Azos.

@@ -1,0 +1,3 @@
+# Demand
+
+An Azos module creates debt by holding or acquiring approved “backing collateral” assets. Modules are required to maintain a one hundred percent collateralization. The preferred backing collateral types are decentralized stablecoins; but a certain threshold of centralized stablecoins is acceptable. We will use existing stable assets to bootstrap the growth of Azos. There will be windows where one way conversion of stablecoins to Azos stable assets is allowed. The assets will bootstrap the Azos module’s initial backing collateral reserves. We can also open these windows prior to increasing collateral type limits; in anticipation of increased volume.
